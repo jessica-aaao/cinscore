@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">CinScore</string>
+    <string name="basketball_path">https://v1.basketball.api-sports.io/</string>
+    <string name="soccer_path">https://v3.football.api-sports.io/</string>
+    <string name="f1_path">https://v1.formula-1.api-sports.io/</string>
+    <string name="handball_path">https://v1.handball.api-sports.io/</string>
+    <string name="volleyball_path">https://v1.volleyball.api-sports.io/</string>
 </resources>
